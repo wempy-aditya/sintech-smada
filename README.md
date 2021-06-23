@@ -15,9 +15,9 @@ Batas akhir pengumpulan tugas tanggal 08 Juli 2021
 - https://blog.wempy.xyz/ 
 
 ## Pengumpulan Tugas 
-- Setelah semua selesai, kalian bisa memasukkan semua file source code ke dalam satu folder (beri nama folder sesuai dengan nama kalian masing-masing)
-- Lalu, compress folder tersebut menjadi format .zip atau .rar 
+- Setelah semua selesai, kalian bisa memasukkan semua file source code ke dalam satu folder 
+- Lalu, compress folder tersebut menjadi format .zip atau .rar (beri nama file sesuai dengan nama dan kelas kalian)
 - Ukuran maksimal file adalah 10mb 
-- Terakhir kalian bisa mengirimkan file ke google form : https://forms.gle/vbrEmBDFYTYfcamH8
+- Terakhir, kalian bisa mengirimkan file ke google form : https://forms.gle/vbrEmBDFYTYfcamH8
 
 Jangan lupa dikerjakan ya! Semangat 
