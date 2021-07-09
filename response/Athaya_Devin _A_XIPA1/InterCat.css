@@ -1,0 +1,170 @@
+body{
+margin:0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#menu{
+	background-color: slategray;
+	height: 60px;
+	padding: 5px;
+	font-family: verdana;
+	font-size: 15px;
+}
+
+label {
+	font-family: courier;
+	font-size: 40px;
+	margin: 5px;
+	padding: 5px;
+	float: left;
+}
+
+#menu ul {
+	margin: 0px;
+	padding: 15px;
+	background: none;
+	display: block;
+	float: left;
+	margin-right: 50px;
+}
+	
+#menu ul li {
+	list-style: none;
+	display: inline-block;
+}
+
+#menu ul li a {
+	display: block;
+	text-decoration: none;
+	padding: 2px;
+	color: white;
+}
+
+#menu ul li a:hover {
+    display: block;
+    color: white;
+    background: dimgray;
+    box-shadow:inset 0px 0px 0px 5px dimgray;
+}
+
+
+#welcome img {
+	width: 100%;
+	margin-bottom: 300px;
+}
+
+
+#what {
+	background-color: whitesmoke;
+	height: 500px;
+	margin-bottom: 300px;
+}
+
+#what pre {
+	font-family: verdana;
+	font-size: 60px;
+	float: left;
+}
+
+
+#what img {
+	float: right;
+	margin-right: 100px;
+	margin-top: 50px;
+}
+
+
+#feature {
+	background-color: whitesmoke;
+	height: 300px;
+	width: 100%;
+	margin-left: 30px;
+}
+
+#feature ul li {
+	float: left;
+
+}
+#feature ul li a img {
+	margin-left: 120px;
+}
+
+
+#feature2 {
+	background-color: whitesmoke;
+	height: 500px;
+	width: 100%;
+	margin-left: 30px;
+}
+
+#feature2 ul li {
+	float: left;
+
+}
+#feature2 ul li a img {
+	margin-left: 120px;
+}
+
+#happy pre {
+	font-size: 20px;
+	float: left;
+	font-family: optima;
+	margin-left: 550px;
+}
+
+footer{
+	background-color: slategray;
+	height: 250px;
+	width: 100%;
+	border-bottom-style: solid;
+	border-width: 10px;
+	border-color: darkslategray;
+	color: black;
+	margin-bottom: -20px;
+}
+
+#footer ul{
+	margin-left: 50px;
+	padding: 10px;
+
+}
+
+#footer h3{
+	font-family: courier;
+	font-size: 40px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+}
+
+#footer pre{
+	font-family: optima;
+	font-size: 15px;
+}
+
+
+#footer h4 {
+	font-size: 15;
+	font-family: optima;
+	float: right;
+}
+
+#socials {
+	background-color: darkslategray;
+	height: 50px;
+	width: 100%;
+	margin-bottom: -20px;
+}
+
+#socials ul li {
+	float: left;
+	margin-left: 300px;
+	margin-top: 10px;
+}
+
+#socials ul li a{
+	color: black;
+}
+
+#socials ul li a svg{
+	list-style: none;
